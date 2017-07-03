@@ -1,0 +1,5 @@
+333333,Reebok Netball,Netball,2,29.95,Sports R Us,Sports Limited,Adult,false,20,5,10.0
+111111,[brand] Mask,Hockey,4,20.0,Sports Limited,Sports R Us,Large,false,20,5,10.0
+444444,[brand] Bat,Cricket,2,30.0,Junior Sports,Sports R Us,Teen,false,20,5,10.0
+222240,DMC Swim Training Short FIN,Swimming,7,61.0,Swimware,Junior Sports,9-11(US),false,5,5,0.0
+111112,Grays Gx5000,Hockey,1,110.0,Sports Limited,Sports R Us,Adult,false,5,5,5.0

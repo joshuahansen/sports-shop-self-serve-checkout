@@ -1,0 +1,6 @@
+Josh,3589185,qwerty,manager
+Tim,00000100,salesman95,sales
+Jay,00000011,passparcel1,sales
+Mia,00000010,password,sales
+Wayne,00000101,warehouseboy44,warehouse
+Tara,0000110,warehousegirl88,warehouse

@@ -1,0 +1,23 @@
+111111,Atlas Mask,Hockey,15,21.0,Sports Limited,Sports R Us,Large,false,5,5,0.0
+111112,Grays Gx5000,Hockey,19,110.0,Sports Limited,Sports R Us,Adult,false,5,5,5.0
+111113,Gryphon Tour Samurai,Hockey,10,330.0,Junior Sports,Sports Limited,Adult,false,5,5,10.0
+111114,Espada Velocity,Hockey,15,286.75,Sports R Us,Sports Limited,Adult,false,5,5,0.0
+111115,Asics Typhoon 2 (Mens),Hockey,7,152.0,Junior Sports,Sports Limited,10(US),false,5,5,0.0
+111116,Salomon Speedcross 4(Womens),Hockey,12,175.0,Junior Sports,Sports Limited,10(US),false,5,5,0.0
+111117,Asics Typhoon 2(Womens),Hockey,12,165.0,Junior Sports,Sports Limited,10(US),false,5,5,0.0
+111118,Grays G8000 (Mens),Hockey,10,85.5,Junior Sports,Sports Limited,9(US),false,5,5,0.0
+111119,Mazon Mini Shinguards,Hockey,9,9.95,Junior Sports,Sports Limited,Child,false,5,5,0.0
+111120,Grays G500 Shinguard,Hockey,10,25.0,Junior Sports,Sports Limited,Teen,false,5,5,5.0
+111121,Voodoo V99 Glove,Hockey,5,29.95,Junior Sports,Sports Limited,Adult,false,2,5,5.0
+111122,Grays Cushion Grip,Hockey,10,13.5,Junior Sports,Sports Limited,Adult,false,5,5,0.0
+222230,Speedo Microfibre Towel,Swimming,19,20.0,Swimware,Sports Limited,Large,false,5,5,0.0
+222231,TYR Tracer Racing Goggles,Swimming,10,26.5,Swimware,Sports Limited,Adult,false,5,5,5.0
+222232,TYR Tracer Junior Goggles,Swimming,7,15.5,Swimware,Sports Limited,Child,false,5,5,0.0
+222233,Arena Cobra Goggles,Swimming,16,52.0,Swimware,Junior Sports,Adult,false,5,5,0.0
+222234,Speedo Elite Pullbuoy,Swimming,0,24.0,Swimware,Junior Sports,Adult,false,5,5,0.0
+222235,Speedo Speedsocket Goggles,Swimming,7,30.0,Swimware,Junior Sports,Adult,false,5,5,0.0
+222236,Speedo EVA Kickboard,Swimming,9,40.0,Swimware,Junior Sports,All Ages,false,5,5,0.0
+222237,Speedo Multi-Colour Silicone Cap,Swimming,10,18.5,Swimware,Junior Sports,One Size Fits All,false,5,5,0.0
+222238,Aqua Dumbells,Swimming,10,60.0,Swimware,Junior Sports,Adult,false,5,5,0.0
+222239,Finis Short Training Fin,Swimming,11,29.0,Swimware,Junior Sports,8-9(US),false,5,5,0.0
+222240,DMC Swim Training Short FIN,Swimming,14,61.0,Swimware,Junior Sports,9-11(US),false,5,5,0.0
